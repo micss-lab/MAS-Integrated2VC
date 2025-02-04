@@ -44,6 +44,7 @@ Each JSON entry typically includes `X`, `Y`, and `Rz` (rotation) attributes plus
    - From the “Connectivity” tab, right-click **OPC-UA** and choose “Add Server.”  
    - Point it to `opc.tcp://localhost:4840` (matching the Java server endpoint).  
    - Once connected, you should see logs in Visual Components confirming a link to the server.
+   <img src="../images/OPCUAconnection.PNG" width="300" height="550" alt="ConnectionOPCUA"/>
 
 3. **Run the Simulation**  
    - Click *Play* inside Visual Components to start simulation.  

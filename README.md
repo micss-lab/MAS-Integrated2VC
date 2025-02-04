@@ -1,6 +1,10 @@
 # Multi-Robot OPC-UA Integration with Visual Components
 
 This repository showcases how to decouple control logic from a Visual Components simulation using Java-based OPC-UA connectivity and JADE agents. The end result is a flexible, multi-agent, multi-robot system that coordinates product flows and collision-free navigation in a simulated industrial environment.
+<p float="left">
+  <img src="images/SmartWarehouse.png" width="700" alt="Smart Warehouse created in the framework"/>
+  <img src="images/RobotUI.PNG" width="700" alt="User Interface"/>
+</p>
 
 ## Key Features
 

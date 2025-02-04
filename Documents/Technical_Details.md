@@ -28,6 +28,7 @@ All Python control logic for robots, conveyors, pathways, etc. is **embedded** i
   - Cloned from a single “Conveyor4” if new output conveyors are specified in `Output_Conveyor_Info.json`.
 
 **Note**: Visual Components spawns or clones new components at runtime, which is how the warehouse scales to many robots and conveyors without manually placing them in the layout.
+<img src="../images/cloning.PNG" width="700" alt="Cloning Visualization"/>
 
 ### 1.2 Key Properties and Flow
 
